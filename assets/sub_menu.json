@@ -1,0 +1,585 @@
+[
+  {
+    "key": "kirmizi-et-ana-yemekler",
+    "description": "Ana Yemeğinizi Seçin",
+    "orderTag": "Kırmızı Et - Ana Lezzetler",
+    "items": [
+      {
+        "name": "Hünkarbeğendi",
+        "image": "assets/images/hunkar-begendi.jpg",
+        "price": "2,7"
+      },
+      {
+        "name": "Domates Soslu İsveç Köfte",
+        "image": "assets/images/isvec-kofte.jpg",
+        "price": ""
+      },
+      {
+        "name": "Patates Püresi Yatağında Kszfte",
+        "image": "assets/images/patates-puresi-yataginda-kofte.jpg",
+        "price": ""
+      },
+      {
+        "name": "Beğendi Yatağında Köfte",
+        "image": "assets/images/begendi-yataginda-kofte.jpg",
+        "price": ""
+      },
+      {
+        "name": "Izgara Köfte ve Karışık Sebze",
+        "image": "assets/images/izgara-kofte-ve-karisik-sebze.jpg",
+        "price": ""
+      },
+      {
+        "name": "Orman Kebabı",
+        "image": "assets/images/orman-kebabi.jpg",
+        "price": ""
+      },
+      {
+        "name": "Dana Kavurma ve Şehriyeli Pilav",
+        "image": "assets/images/dana-kavurma-ve-sehriyeli-pilav.jpg",
+        "price": "7,2"
+      }
+    ]
+  },
+  {
+    "key": "beyaz-et-ana-yemekler",
+    "description": "Ana Yemeğinizi Seçin",
+    "orderTag": "Beyaz Et - Ana Lezzetler",
+    "items": [
+      {
+        "name": "Moğol Usulü Sebzeli Tavuklu Erişte",
+        "image": "assets/images/soya-soslu-tavuklu-sebzeli-noodle.jpg",
+        "price": "2,7"
+      },
+      {
+        "name": "Köri Soslu Mantarlı Tavuk",
+        "image": "assets/images/kori-soslu-mantarli-tavuk.jpg",
+        "price": ""
+      },
+      {
+        "name": "Piliç Piccata ve Fettuccine",
+        "image": "assets/images/pilic-piccata-ve-fettucine.jpg",
+        "price": ""
+      },
+      {
+        "name": "Fırın Tavuk ve Şehriyeli Pilav",
+        "image": "assets/images/pilav-ustu-firin-tavuk.jpg",
+        "price": ""
+      },
+      {
+        "name": "Izgara Tavuk ve Karışık Sebze",
+        "image": "assets/images/izgara-tavuk-ve-karisik-sebze.jpg",
+        "price": ""
+      },
+      {
+        "name": "Somon Izgara",
+        "image": "assets/images/somon-izgara.jpg",
+        "price": ""
+      }
+    ]
+  },
+  {
+    "key": "sebzeli-etli-indirimli-menu-ana-yemekler",
+    "description": "Ana Yemeğinizi Seçin",
+    "orderTag": "Sebzeli Etli Menü - Ana Lezzetler",
+    "items": [
+      {
+        "name": "Etli Asma Yaprağı Sarma ve Yoğurt",
+        "image": "assets/images/etli-yaprak-sarma-ve-yogurt.jpg",
+        "price": ""
+      },
+      {
+        "name": "Zerdeçal Soslu Karışık Sebze",
+        "price": "1",
+        "image": "assets/images/zerdecal-soslu-karisik-sebze.jpg"
+      },
+      {
+        "name": "Acı Soslu Patlıcanlı Fettuccine",
+        "price": "1,75",
+        "image": "assets/images/aci-soslu-patlicanli-fettucine.jpg"
+      },
+      {
+        "name": "Fırınlanmış Beyaz Nohut",
+        "image": "assets/images/firinlanmis-beyaz-nohut.jpg",
+        "price": ""
+      },
+      {
+        "name": "Kıymalı Ispanak Oturtma ve Yoğurt",
+        "image": "assets/images/kiymali-ispanak-oturtma-ve-yogurt.jpg",
+        "price": ""
+      },
+      {
+        "name": "Kabak Kalye",
+        "image": "assets/images/kabak-kalye.jpg",
+        "price": ""
+      },
+      {
+        "name": "Veggie Lazanya",
+        "price": "2",
+        "image": "assets/images/veggie-lazanya.jpg"
+      },
+      {
+        "name": "Türlü",
+        "image": "assets/images/turlu.jpg",
+        "price": ""
+      },
+      {
+        "name": "Antep Usulü Karışık Dolma ve Yoğurt",
+        "price": "3,25",
+        "image": "assets/images/antep-usulu-karisik-dolma-ve-yogurt.jpg"
+      },
+      {
+        "name": "Kıymalı Yeşil Mercimek",
+        "image": "assets/images/kiymali-yesil-mercimek.jpg",
+        "price": ""
+      }
+    ]
+  },
+  {
+    "key": "diyet-indirimli-menu-ana-yemekler",
+    "description": "Ana Yemeğinizi Seçin",
+    "orderTag": "Diyet Menu - Ana Lezzetler",
+    "items": [
+      {
+        "name": "Kıymalı Ispanak Oturtma ve Yoğurt",
+        "image": "assets/images/kiymali-ispanak-oturtma-ve-yogurt.jpg",
+        "price": ""
+      },
+      {
+        "name": "Zerdeçal Soslu Karışık Sebze",
+        "image": "assets/images/zerdecal-soslu-karisik-sebze.jpg",
+        "price": "1"
+      },
+      {
+        "name": "Venedik Soslu Kinoalı Yeşil Salata",
+        "price": "1,75",
+        "image": "assets/images/venedik-soslu-kinoa-salatasi.jpg"
+      },
+      {
+        "name": "Thai Salata",
+        "image": "assets/images/thai-salata.jpg",
+        "price": ""
+      },
+      {
+        "name": "Pancar Salata",
+        "image": "assets/images/pancar-salata.jpg",
+        "price": ""
+      },
+      {
+        "name": "Türlü",
+        "image": "assets/images/turlu.jpg",
+        "price": ""
+      },
+      {
+        "name": "Fırınlanmış Beyaz Nohut",
+        "price": "2",
+        "image": "assets/images/firinlanmis-beyaz-nohut.jpg"
+      },
+      {
+        "name": "Izgara Tavuk ve Karışık Sebze",
+        "image": "assets/images/izgara-tavuk-ve-karisik-sebze.jpg",
+        "price": ""
+      },
+      {
+        "name": "Kıymalı Yeşil Mercimek",
+        "price": "3,25",
+        "image": "assets/images/kiymali-yesil-mercimek.jpg"
+      },
+      {
+        "name": "Orman Kebabı",
+        "image": "assets/images/orman-kebabi.jpg",
+        "price": ""
+      }
+    ]
+  },
+  {
+    "key": "vejeteryan-indirimli-menu-ana-yemekler",
+    "description": "Ana Yemeğinizi Seçin",
+    "orderTag": "Vejeteryan Menü - Ana Lezzetler",
+    "items": [
+      {
+        "name": "Kabak Kalye",
+        "image": "assets/images/kabak-kalye.jpg",
+        "price": ""
+      },
+      {
+        "name": "Acı Soslu Patlıcanlı Fettuccine",
+        "price": "1",
+        "image": "assets/images/aci-soslu-patlicanli-fettucine.jpg"
+      },
+      {
+        "name": "Zerdeçal Soslu Karışık Sebze",
+        "price": "1,75",
+        "image": "assets/images/zerdecal-soslu-karisik-sebze.jpg"
+      },
+      {
+        "name": "Thai Salata",
+        "image": "assets/images/thai-salata.jpg",
+        "price": ""
+      },
+      {
+        "name": "Pancar Salata",
+        "image": "assets/images/pancar-salata.jpg",
+        "price": ""
+      },
+      {
+        "name": "Türlü",
+        "image": "assets/images/turlu.jpg",
+        "price": ""
+      },
+      {
+        "name": "Fırınlanmış Beyaz Nohut",
+        "price": "2",
+        "image": "assets/images/firinlanmis-beyaz-nohut.jpg"
+      },
+      {
+        "name": "Izgara Tavuk ve Karışık Sebze",
+        "image": "assets/images/izgara-tavuk-ve-karisik-sebze.jpg",
+        "price": ""
+      },
+      {
+        "name": "Kıymalı Yeşil Mercimek",
+        "price": "3,25",
+        "image": "assets/images/kiymali-yesil-mercimek.jpg"
+      },
+      {
+        "name": "Orman Kebabı",
+        "image": "assets/images/orman-kebabi.jpg",
+        "price": ""
+      },
+      {
+        "name": "Zerdeçal Soslu Karışık Sebze",
+        "image": "assets/images/zerdecal-soslu-karisik-sebze.jpg",
+        "price": ""
+      }
+    ]
+  },
+  {
+    "key": "cocacola-indirimli-menu-ana-yemekler",
+    "description": "Ana Yemeğinizi Seçin",
+    "orderTag": "Coca Cola Menü - Ana Lezzetler",
+    "items": [
+      {
+        "name": "Orman Kebabı",
+        "image": "assets/images/orman-kebabi.jpg",
+        "price": ""
+      },
+      {
+        "name": "Beğendi Yatağında Köfte",
+        "price": "1",
+        "image": "assets/images/begendi-yataginda-kofte.jpg"
+      },
+      {
+        "name": "Patates Püresi Yatağında Köfte",
+        "price": "1,75",
+        "image": "assets/images/patates-puresi-yataginda-kofte.jpg"
+      },
+      {
+        "name": "Izgara Köfte ve Karışık Sebze",
+        "image": "assets/images/izgara-kofte-ve-karisik-sebze.jpg",
+        "price": ""
+      },
+      {
+        "name": "Dana Kavurma ve Şehriyeli Pilav",
+        "image": "assets/images/dana-kavurma-ve-sehriyeli-pilav.jpg",
+        "price": ""
+      },
+      {
+        "name": "Izgara Tavuk ve Karışık Sebze",
+        "image": "assets/images/izgara-tavuk-ve-karisik-sebze.jpg",
+        "price": ""
+      },
+      {
+        "name": "Fırın Tavuk ve Şehriyeli Pilav",
+        "price": "2",
+        "image": "assets/images/pilav-ustu-firin-tavuk.jpg"
+      },
+      {
+        "name": "Moğol Usulü Sebzeli Tavuklu Erişte",
+        "image": "assets/images/soya-soslu-tavuklu-sebzeli-noodle.jpg",
+        "price": ""
+      },
+      {
+        "name": "Piliç Piccata ve Fettuccine",
+        "price": "3,25",
+        "image": "assets/images/pilic-piccata-ve-fettucine.jpg"
+      },
+      {
+        "name": "Etli Asma Yaprağı Sarma ve Yoğurt",
+        "image": "assets/images/etli-yaprak-sarma-ve-yogurt.jpg",
+        "price": ""
+      },
+      {
+        "name": "Türlü",
+        "image": "assets/images/turlu.jpg",
+        "price": ""
+      },
+      {
+        "name": "Zerdeçal Soslu Karışık Sebze",
+        "image": "assets/images/zerdecal-soslu-karisik-sebze.jpg",
+        "price": ""
+      },
+      {
+        "name": "Domates Soslu İsveç Köfte",
+        "image": "assets/images/isvec-kofte.jpg",
+        "price": ""
+      },
+      {
+        "name": "Hünkarbeğendi",
+        "image": "assets/images/hunkar-begendi.jpg",
+        "price": ""
+      },
+      {
+        "name": "Veggie Lazanya",
+        "image": "assets/images/veggie-lazanya.jpg",
+        "price": ""
+      },
+      {
+        "name": "Köri Soslu Mantarlı Tavuk",
+        "image": "assets/images/kori-soslu-mantarli-tavuk.jpg",
+        "price": ""
+      },
+      {
+        "name": "Kıymalı Yeşil Mercimek",
+        "image": "assets/images/kiymali-yesil-mercimek.jpg",
+        "price": ""
+      },
+      {
+        "name": "Acı Soslu Patlıcanlı Fettuccine",
+        "image": "assets/images/aci-soslu-patlicanli-fettucine.jpg",
+        "price": ""
+      },
+      {
+        "name": "Fırınlanmış Beyaz Nohut",
+        "image": "assets/images/firinlanmis-beyaz-nohut.jpg",
+        "price": ""
+      },
+      {
+        "name": "Kıymalı Ispanak Oturtma ve Yoğurt",
+        "image": "assets/images/kiymali-ispanak-oturtma-ve-yogurt.jpg",
+        "price": ""
+      },
+      {
+        "name": "Somon Izgara",
+        "image": "assets/images/somon-izgara.jpg",
+        "price": ""
+      },
+      {
+        "name": "Antep Usulü Karışık Dolma ve Yoğurt",
+        "image": "assets/images/antep-usulu-karisik-dolma-ve-yogurt.jpg",
+        "price": ""
+      }
+    ]
+  },
+  {
+    "key": "indirimli-menu-yan-lezzetler-1",
+    "description": "1. Yan Lezzetinizi Seçin",
+    "orderTag": "Menü Yan Lezzetler",
+    "items": [
+      {
+        "name": "Nohutlu Pirinç Pilavı",
+        "image": "assets/images/nohutlu-sehriyeli-pirinc-pilavi.jpg",
+        "price": ""
+      },
+      {
+        "name": "Domatesli Bulgur Pilavı",
+        "image": "assets/images/domatesli-bulgur-pilavi.jpg",
+        "price": ""
+      },
+      {
+        "name": "Kaşarlı Patates Püresi",
+        "image": "assets/images/kasarli-patates-puresi.jpg",
+        "price": ""
+      },
+      {
+        "name": "Mini İçli Köfte",
+        "image": "assets/images/mini-icli-kofte.jpg",
+        "price": ""
+      },
+      {
+        "name": "Kadınbudu Köfte",
+        "image": "assets/images/kadinbudu-kofte.jpg",
+        "price": ""
+      },
+      {
+        "name": "İnce Kıyım Şakşuka",
+        "image": "assets/images/ince-kiyim-saksuka.jpg",
+        "price": ""
+      },
+      {
+        "name": "Barbunya Pilaki",
+        "image": "assets/images/barbunya-pilaki.jpg",
+        "price": ""
+      },
+      {
+        "name": "Tereyağlı Cevizli Erişte",
+        "image": "assets/images/tereyagli-cevizli-eriste.jpg",
+        "price": ""
+      },
+      {
+        "name": "Baharatlı Fırın Patates",
+        "image": "assets/images/baharatli-firin-patates.jpg",
+        "price": ""
+      }
+    ]
+  },
+  {
+    "key": "indirimli-menu-yan-lezzetler-2",
+    "description": "2. Yan Lezzetinizi Seçin",
+    "orderTag": "Menü Yan Lezzetler",
+    "items": [
+      {
+        "name": "Nohutlu Pirinç Pilavı",
+        "image": "assets/images/nohutlu-sehriyeli-pirinc-pilavi.jpg",
+        "price": ""
+      },
+      {
+        "name": "Domatesli Bulgur Pilavı",
+        "image": "assets/images/domatesli-bulgur-pilavi.jpg",
+        "price": ""
+      },
+      {
+        "name": "Kaşarlı Patates Püresi",
+        "image": "assets/images/kasarli-patates-puresi.jpg",
+        "price": ""
+      },
+      {
+        "name": "Mini İçli Köfte",
+        "image": "assets/images/mini-icli-kofte.jpg",
+        "price": ""
+      },
+      {
+        "name": "Kadınbudu Köfte",
+        "image": "assets/images/kadinbudu-kofte.jpg",
+        "price": ""
+      },
+      {
+        "name": "İnce Kıyım Şakşuka",
+        "image": "assets/images/ince-kiyim-saksuka.jpg",
+        "price": ""
+      },
+      {
+        "name": "Barbunya Pilaki",
+        "image": "assets/images/barbunya-pilaki.jpg",
+        "price": ""
+      },
+      {
+        "name": "Tereyağlı Cevizli Erişte",
+        "image": "assets/images/tereyagli-cevizli-eriste.jpg",
+        "price": ""
+      },
+      {
+        "name": "Baharatlı Fırın Patates",
+        "image": "assets/images/baharatli-firin-patates.jpg",
+        "price": ""
+      }
+    ]
+  },
+  {
+    "key": "indirimli-menu-tatli",
+    "description": "Dilerseniz ilave Tatlı alabilirsiniz.",
+    "orderTag": "indirimli menu tatli",
+    "items": [
+      {
+        "name": "Çekoslovak Güneşi",
+        "image": "assets/images/cekoslavak-gunesi.jpg",
+        "price": "7,2"
+      },
+      {
+        "name": "Siyah İnci",
+        "image": "assets/images/siyah-inci-dilim.jpg",
+        "price": "7,2"
+      },
+      {
+        "name": "Çikolatalı Sufle",
+        "image": "assets/images/cikolatali-sufle.jpg",
+        "price": "7,2"
+      },
+      {
+        "name": "Kuş Sütü",
+        "image": "assets/images/kus-sutu.jpg",
+        "price": "7,2"
+      },
+      {
+        "name": "Frambuazlı Cheesecake",
+        "image": "assets/images/frambuazli-cheesecake.jpg",
+        "price": "7,2"
+      },
+      {
+        "name": "Çikolatalı Brownie",
+        "image": "assets/images/cikolatali-brownie.jpg",
+        "price": "7,2"
+      },
+      {
+        "name": "İrmik Helvası",
+        "image": "assets/images/irmik-helvasi.jpg",
+        "price": "7,2"
+      },
+      {
+        "name": "tatlı istemiyorum",
+        "image": "assets/images/istemiyorum.jpg",
+        "price": "7,2"
+      }
+    ]
+  },
+  {
+    "key": "indirimli-menu-icecek",
+    "description": "Dilerseniz Menünüze İçecek Ekleyebilirsiniz.",
+    "orderTag": "indirimli menu",
+    "items": [
+      {
+        "name": "Coca-Cola Kutu",
+        "image": "assets/images/coca-cola-kutu-330ml.jpg",
+        "items": [
+          {
+            "name": "Coca-Cola Kutu",
+            "image": "assets/images/coca-cola-kutu-330ml.jpg",
+            "price": 3
+          },
+          {
+            "name": "Coca-Cola Light Kutu",
+            "image": "assets/images/coca-cola-light-kutu.jpg",
+            "price": 3
+          },
+          {
+            "name": "Coca-Cola Zero Kutu",
+            "image": "assets/images/coca-cola-zero-kutu.jpg",
+            "price": 3
+          },
+          {
+            "name": "Coca-Cola Cam Şişe",
+            "image": "assets/images/coca-cola-cam-sise.jpg"
+          },
+          {
+            "name": "Coca-Cola Light Cam Şişe",
+            "image": "assets/images/coca-cola-light-cam-sise.jpg"
+          },
+          {
+            "name": "Coca-Cola Zero Cam Şişe",
+            "image": "assets/images/coca-cola-zero-cam-sise.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Fanta Portakal Kutu",
+        "image": "assets/images/fanta-portakal-kutu.jpg",
+        "price": 3
+      },
+      {
+        "name": "Sprite Kutu",
+        "image": "assets/images/sprite-kutu.jpg",
+        "price": 3
+      },
+      {
+        "name": "Guarana Antarctica Gazlı İçecek",
+        "image": "assets/images/guarana-antarctica-gazli-icecek.jpg",
+        "price": 5
+      },
+      {
+        "name": "Damla Su",
+        "image": "assets/images/damla-su.jpg",
+        "price": 1
+      }
+    ]
+  }
+]
